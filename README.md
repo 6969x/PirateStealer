@@ -1,4 +1,4 @@
-## [Youtube](https://www.youtube.com/watch?v=je5vxRbHOf0&t=6s) ### [🔗 Discord Link](https://discord.gg/9KhkepxNR8) - [🔨 Builder](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases) - [💎 Premium](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/files/7702634/Premium.txt) - [📖 Terms](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/#terms) - [💡 Features](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/#features)
+## [Youtube](https://www.youtube.com/watch?v=je5vxRbHOf0&t=6s) - [🔗 Discord Link](https://discord.gg/9KhkepxNR8) - [🔨 Builder](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/releases) - [💎 Premium](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/files/7702634/Premium.txt) - [📖 Terms](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/#terms) - [💡 Features](https://github.com/Stanley-PirateStealer/PirateStealer-GitHub/#features)
 
 # PirateStealer
 Official PirateStealer repos
